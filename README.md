@@ -17,7 +17,7 @@ Adding a new trainee.
 Editing an existing trainee.
 Deleting a trainee.
 Viewing all trainees with all their data and salaries.
-# credits
+# developed by:
 -Farida Elhusseiny
 -Mariam Diaa
 -Mazen Mohamed
